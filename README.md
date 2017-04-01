@@ -2,8 +2,7 @@
 
 Projeto específico para trabalho prático da disciplina Manutenção de Software, que conciste na elaboração/definição de uma proposta para um sistema de software.
 
-[![license](https://img.shields.io/github/license/antlisufg/manuten-oSW.svg)]
-(https://github.com/antlisufg/manuten-oSW/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/antlisufg/manuten-oSW.svg)](https://github.com/antlisufg/manuten-oSW/blob/master/LICENSE)
 
 
 
