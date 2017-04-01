@@ -8,7 +8,7 @@ Projeto específico para trabalho prático da disciplina Manutenção de Softwar
 
 ## Integrantes
 
-- [Affonso Antônio Giesel Lima -  201503327](https://github.com/) 
+- [Affonso Antônio Giesel Lima -  201503327](https://github.com/AffonsoGiesel) 
 - [Antonio Arlis Santos da Silva - 201515565](https://github.com/antlisufg)
 - [Gabriel Henrigue Martins Santana - 201503341 ](https://github.com/gabrielhmartins)
 - [Isaias Tavares da Silva - 201206318](https://github.com/isaiastavares)
