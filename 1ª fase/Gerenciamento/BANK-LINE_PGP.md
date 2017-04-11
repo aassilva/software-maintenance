@@ -26,21 +26,21 @@ maiores demandas em uma agencia física, assim reduzir as filas nas agencia fís
 O escopo deste projeto inclui e exclui os seguintes itens.
 
 #### No Escopo:
- Coleta de histórias de usuários.
- Analise das informações coletadas.
- Gerar a especificação do sistema que será desenvolvido. A especificação do
+- Coleta de histórias de usuários.
+- Analise das informações coletadas.
+- Gerar a especificação do sistema que será desenvolvido. A especificação do
 sistema irá conter os diagramas UML, documento com a especificação de
 requisitos, etc.
- Definir uma arquitetura que atende as especificações do usuário
+- Definir uma arquitetura que atende as especificações do usuário
 
 #### Fora do Escopo:
- Produção de código fonte para o sistema.
- Testes/Casos de Testes para o sistema.
- Implantação do sistema.
- Aquisição e instalação de um novo servidor para instalação do sistema.
- Aquisição e instalação do SGBD (Banco de dados).
- Dados e processos de controle financeiros ou de recursos humanos.
- Disponibilizar infraestrutura física e lógica para funcionamento do sistema. Neste
+- Produção de código fonte para o sistema.
+- Testes/Casos de Testes para o sistema.
+- Implantação do sistema.
+- Aquisição e instalação de um novo servidor para instalação do sistema.
+- Aquisição e instalação do SGBD (Banco de dados).
+- Dados e processos de controle financeiros ou de recursos humanos.
+- Disponibilizar infraestrutura física e lógica para funcionamento do sistema. Neste
 item inclui sistemas operacionais e aplicações definidas nos requisitos do sistema.
 
 ### Recursos Não Humanos e de Ambiente
