@@ -1,4 +1,4 @@
-# BANK-LINE_COP V1.00
+# BANK-LINE_COP 
 
 Versão: V1.00
 
