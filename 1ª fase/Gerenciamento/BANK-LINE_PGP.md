@@ -43,7 +43,7 @@ requisitos, etc.
 - Disponibilizar infraestrutura física e lógica para funcionamento do sistema. Neste
 item inclui sistemas operacionais e aplicações definidas nos requisitos do sistema.
 
-### Recursos Não Humanos e de Ambiente
+### 4. Recursos Não Humanos e de Ambiente
 | Recurso | Tipo |
 |:---------------:|:-----------:|
 | Pacote Microsoft Office | Ferramenta |
@@ -51,17 +51,17 @@ item inclui sistemas operacionais e aplicações definidas nos requisitos do sis
 | Github |           Ferramenta    | 
 | IntelliJ | Ferramenta | 
 
-### Restrições do Projeto
+### 5. Restrições do Projeto
  O aplicativo disponibilizado para os usuários será exclusivamente na plataforma
 Desktop.
 
-### Riscos do projeto
+### 6. Riscos do projeto
 | Risco | Nível (A/M/B) Alto/Médio/Baixo | Prevenção | Mitigação |
 |:---------------:|:-----------:|:---------:|:------:|
 | Desligamento defuncionário |      M            | Documentar atividades, realizar atividades conforme procedimento.      | Calcular impacto no cronograma e atualizar.|
 | Não comprimento do cronograma |          A      | Monitoramento do cronograma           | Renegociar escopo com patrocinador, redução de gastos.|
 | Falta de conhecimento da equipe |           B       | Realizar workshop             | Realizar treinamento e calcular impacto no cronograma. | 
 
-### Ciclo de Vida do Projeto
+### 7. Ciclo de Vida do Projeto
 O modelo decidido em comum acordo com a equipe responsável do projeto junto
 aos seus diretores/gestores foi o modelo Sequencial (Cascata).
