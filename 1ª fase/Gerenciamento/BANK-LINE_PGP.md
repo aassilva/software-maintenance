@@ -56,8 +56,7 @@ item inclui sistemas operacionais e aplicações definidas nos requisitos do sis
 Desktop.
 
 ### Riscos do projeto
-| Risco | Nível (A/M/B)
-Alto/Médio/Baixo | Prevenção | Mitigação |
+| Risco | Nível (A/M/B)Alto/Médio/Baixo | Prevenção | Mitigação |
 |:---------------:|:-----------:|:---------:|:------:|
 | Desligamento defuncionário |      M            | Documentar atividades, realizar atividades conforme procedimento.      | Calcular impacto no cronograma e atualizar.|
 | Não comprimento do cronograma |          A      | Monitoramento do cronograma           | Renegociar escopo com patrocinador, redução de gastos.|
