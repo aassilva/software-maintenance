@@ -4,7 +4,6 @@ Versão: V1.00
 
 ## Cronograma
 
-## Cronograma
 
 | ID da Atividade | Dependência | Atividade | Inicio | Término | Tempo Previsto (dias) | Recurso |
 |:---------------:|:-----------:|:---------:|:------:|:-------:|:---------------------:|:-------:|
