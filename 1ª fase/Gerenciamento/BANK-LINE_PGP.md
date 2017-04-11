@@ -2,7 +2,7 @@
 
 Versão: V1.00
 
-## Plano Geral do Plojeto
+## Plano Geral do Projeto
 
 ### 1. Visão Geral do Projeto
 Este projeto propõe o desenvolvimento de uma aplicação desktop para um dos maiores banco do mundo. O objetivo é aumentar a segurança de acesso, diminuir as filas de espera nas agencias físicas, pois a aplicação permitirá o cliente do banco realizar as
