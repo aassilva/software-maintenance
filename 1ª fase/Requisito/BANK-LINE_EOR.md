@@ -2,10 +2,10 @@
 
 Versão: V1.01
 
-<h1> Especificação de requisitos<\h1>
+<h1> Especificação de requisitos</h1>
 
 
-<h2> 1. Estrutura do documento <\h2>
+<h2> 1. Estrutura do documento </h2>
 
 <p>
    2. Introdução
@@ -61,6 +61,6 @@ Clientes, usuários, desenvolvedores, arquiteto de design, analista de testes e 
            
    </p>
    
-<h2> 3. Descrição do problema e do sistema <\h2>
+<h2> 3. Descrição do problema e do sistema </h2>
 
 #### 3.1 Identifição e missão do sistema
