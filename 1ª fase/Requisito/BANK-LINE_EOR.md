@@ -2,7 +2,7 @@
 
 Versão: V1.01
 
-<h1> Especificação de requisitos <\h1>
+<h1> Especificação de requisitos<\h1>
 
 
 <h2> 1. Estrutura do documento <\h2>
