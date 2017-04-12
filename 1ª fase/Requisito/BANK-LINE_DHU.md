@@ -85,40 +85,55 @@ O cliente digita o seu login e senha para realizar acesso ao aplicativo, realiza
 não sendo necessário que o mesmo realize outras confirmações de dados adicionais.
 </pre>
 
+
+### hisUsu11
+Eu, como representante do banco, desejo realizar o cadastro de um cliente para acessar o aplicativo.
 <pre>
-
-</pre>
-
-<pre>
-
-</pre>
-
-<pre>
-
-</pre>
-
-<pre>
-
-</pre>
-
-<pre>
-
-</pre>
-
-<pre>
-
-</pre>
-
-<pre>
-
-</pre>
-
-<pre>
-
-</pre>
-
-<pre>
-
+O cadastro do Cliente  deve possuir as seguintes informações: CPF, Nome, Enderenço, Telefone, 
+E-mail, número do cartão, vencimento do cartão, bandeira do cartão, código de segurança, 
+número de conta, número da agência, senha de acesso, login, filiação, RG, cidade de nascimento,
+estado de nascimento, nacionalidade, e-mail.
 </pre>
 
 
+### hisUsu12
+Eu, como representante do banco, desejo receber relatórios de satisfação dos clientes para que através destas informações eu possa me orientar na busca de uma prestação de serviço cada vez mais eficiente.
+
+
+### hisUsu13
+Eu, como representante do banco, desejo que a aplicação possa realizar comunicação com o cliente, seja informativa ou de alerta.
+<pre>
+Caso a informação seja informativa deverá apresentar na home do cliente
+de forma automatica, caso seja um alerta deve ser solicitado um dado adicional
+para que a mesma seja apresentada.
+</pre>
+
+
+### hisUsu14
+Eu, como representante do banco, deseja fazer o bloqueio de acesso do cliente a aplicação para garantir a segurança do mesmo.
+<pre>
+O desbloqueio será realizado apenas na agência física com o representante do banco, 
+enquanto o usuário estiver com bloqueio ativo não terá acesso as funcionalidaddes da aplicação.
+</pre>
+
+
+### hisUsu15
+Eu, como representante do banco, desejo fazer a suspensão de funcionalidades que realizam operações para garantir que a segurança seja mantida.
+<pre>
+Durante o período de suspensão o cliente poderá realizar apenas consultas, o desbloqueio 
+pode ser realizado pela propria aplicação com a confirmação de dados pessoais.
+</pre>
+
+
+### hisUsu16
+Eu, como representante do banco, desejo poder inativar a conta de um cliente quando houver necessidade.
+<pre>
+Esta operação só poderá ser realizado na agência física.
+</pre>
+
+
+### hisUsu17
+Eu, como representante do banco, desejo realizar consultas para determinado cliente.
+<pre>
+O sistema deve permitir a buscar de cliente e trazer as informações pertinentes ao cliente.
+</pre>
