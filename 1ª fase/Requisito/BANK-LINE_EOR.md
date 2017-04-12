@@ -49,3 +49,9 @@ Versão: V1.01
 - Reduzir retrabalho com projeto, codificação e teste através da especificação rigorosa e completa dos requisitos; 
 - Prover uma base para avaliação de prazos e custos de desenvolvimento; 
 - Prover uma base para a evolução futura do sistema a partir de uma versão aprovada (linha de base) deste documento.
+
+#### 2.2 Publico alvo
+Clientes, usuários, desenvolvedores, arquiteto de design, analista de testes e gerente do projeto BANK-LINE.
+
+### 3. Descrição do problema e do sistema
+#### 3.1 Identifição e missão do sistema
