@@ -46,7 +46,7 @@ Versão: V1.01
    
 <h2> 2. Introdução </h2>
 
-  #### 2.1 Objetivos
+### 2.1 Objetivos
   Este documento tem os seguintes objetivos:
 - Definir os interessados no sistema e as suas necessidades que devem ser satisfeitas pelo sistema a ser desenvolvido; 
 - Derivar os casos de uso e requisitos do sistema de forma a orientar a equipe de que será responsável pelo seu desenvolvimento; 
@@ -55,7 +55,7 @@ Versão: V1.01
 - Prover uma base para avaliação de prazos e custos de desenvolvimento; 
 - Prover uma base para a evolução futura do sistema a partir de uma versão aprovada (linha de base) deste documento.
 
-#### 2.2 Publico alvo
+### 2.2 Publico alvo
 Clientes, usuários, desenvolvedores, arquiteto de design, analista de testes e gerente do projeto BANK-LINE.
 <p>
            
@@ -63,4 +63,4 @@ Clientes, usuários, desenvolvedores, arquiteto de design, analista de testes e 
    
 <h2> 3. Descrição do problema e do sistema </h2>
 
-#### 3.1 Identifição e missão do sistema
+### 3.1 Identifição e missão do sistema
