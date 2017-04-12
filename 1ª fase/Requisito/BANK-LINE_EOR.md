@@ -7,7 +7,9 @@ Versão: V1.01
 
 ### 1. Estrutura do documento
 1. Introdução
-   1.1 Objetivos
+  
+  1.1 Objetivos
+  
    1.2 Publico Alvo
 2. Descrição do problema e do sistema
    2.1 Identifição e missão do sistema
