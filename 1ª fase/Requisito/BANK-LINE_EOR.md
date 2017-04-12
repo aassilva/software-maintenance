@@ -39,7 +39,9 @@ Versão: V1.01
 <p>      
 6. Referências Cruzadas Complementares (matrizes de rastreabilidade)
   </p>
-  
+  <p>
+   
+   </p>
   ### 2. Introdução
   #### 2.1 Objetivos
   Este documento tem os seguintes objetivos:
@@ -52,8 +54,8 @@ Versão: V1.01
 
 #### 2.2 Publico alvo
 Clientes, usuários, desenvolvedores, arquiteto de design, analista de testes e gerente do projeto BANK-LINE.
-
-
-
+<p>
+   
+   </p>
 ### 3. Descrição do problema e do sistema
 #### 3.1 Identifição e missão do sistema
