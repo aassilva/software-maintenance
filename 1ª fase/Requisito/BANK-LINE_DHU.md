@@ -1,6 +1,6 @@
 # BANK-LINE_DHU 
 
-Versão: V1.02
+Versão: V1.00
 
 ## Histórias de Usuário
 
