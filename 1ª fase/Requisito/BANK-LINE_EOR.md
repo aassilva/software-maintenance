@@ -5,7 +5,10 @@ Versão: V1.01
 <h1> Especificação de requisitos</h1>
 
 
-<h2> 1. Estrutura do documento </h2>
+<p>
+1. Estrutura do documento 
+   </p>
+Serão definidas as seguintes etapas abaixo, no decorrer do EOR (Documento de Especificação de Requisitos).
 
 <p>
    2. Introdução
