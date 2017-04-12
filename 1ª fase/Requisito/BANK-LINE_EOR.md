@@ -6,7 +6,8 @@ Versão: V1.01
 
 
 ### 1. Estrutura do documento
-- Objetivos do projeto
+- Introdução
+-- Objetivos
 - Escopo do Projeto
 - Recursos Não Humanos e de Ambiente
 - Restrições do Projeto
