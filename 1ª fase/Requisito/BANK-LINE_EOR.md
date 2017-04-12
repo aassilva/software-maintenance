@@ -66,3 +66,14 @@ Clientes, usuários, desenvolvedores, arquiteto de design, analista de testes e 
 <h2> 3. Descrição do problema e do sistema </h2>
 
 ### 3.1 Identifição e missão do sistema
+O sistema BANK-LINE é uma rede de serviço destinada aos clientes do Banco G2. Sua missão é oferecer serviços basicos aos clientes do Banco G2 em uma plataforma desktop, assim diminuir as filas nas agências físicas.
+
+### 3.2 Domínio do problema e contexto de sua aplicação
+O projeto BANK-LINE visa ao desenvolvimento de um sistema que realiza serviços basicos tais como: realizar saque, consultar saldo, consultar extrato, realizar pagamento de boletos, realizar transferencia entre contas e outras. O objetivo é simplificar as operações bancarias basicas, garantido segurança ao usuário. O principal artefato em estudo do BANK-LINE é composto por um software, que possibilitará, por intermédio do uso de comunicação via internet desktop, a realização de transações bancarias, após seu cadastro, validação e autenticação.
+<p>
+           
+   </p>
+   
+<h2> 4. Casos de Uso e Requisitos Funcionais </h2>
+
+### 4.1 Diagrama de Caso de Uso
