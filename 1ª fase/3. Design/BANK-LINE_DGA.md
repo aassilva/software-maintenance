@@ -17,13 +17,12 @@ Esse documento está dividido nas seguintes seções:
 
 1. Introdução
 2. Representação da Arquitetura
-3. Restrição de Arquitetura e Metas
-4. Visão de Casos de Uso
-5. Visão Lógica
-6. Visão de Implementação
-7. Visão de Dados
-8. Tamanho e Desempenho
-9. Qualidade
+3. Visão de Casos de Uso
+4. Visão Lógica
+5. Visão de Implementação
+6. Visão de Dados
+7. Tamanho e Desempenho
+8. Qualidade
 
 ## 2. Representação da Arquitetura
 ![Diagrama](https://github.com/antlisufg/imagens/blob/master/Flowchart0.png)
@@ -35,3 +34,6 @@ Na representação acima mostra o funcionamento da arquitetura MVC aplicada no r
 3. O Model retorna os dados para a ação da Controller.
 4. A Controller, passa os dados para a View.
 5. A View renderiza e retorna os dados para a aplicação.
+
+## 3. Visão de Casos de Uso
+O caso de uso fundamental à arquitetura é:
