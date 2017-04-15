@@ -28,6 +28,7 @@ Todos os itens de configuração (exceto o código fonte) devem se identificado 
 Onde:
 <PROJETO> é o nome do projeto;
 <ACRÔNIMO> é o significado/nome do artefato (Conforme sessão 2.4	Localização dos artefatos).
+
 Observação: Todas as letras que formam a identificação do artefato de ser em maiúsculo.
 
 #### 2.2	Versão do documento
