@@ -29,36 +29,36 @@ Todos os itens de configuração (exceto o código fonte) devem se identificado 
 
 <p>
 Onde:
-  <\p>
+  </p>
 <p>
 PROJETO: é o nome do projeto;
-  <\p>
+  </p>
 <p>
 ACRÔNIMO: é o significado/nome do artefato (Conforme sessão 2.4	Localização dos artefatos).
-  <\p>
+  </p>
   
 <p>  
 Observação: Todas as letras que formam a identificação do artefato de ser em maiúsculo.
-  <\p>
+  </p>
   
 #### 2.2	Versão do documento
 Todos os artefatos devem ter um número de versão conforme abaixo:
 <p>
 VX.YY
-  <\p>
+  </p>
 
 <p>
 Onde:
-  <\p>
+  </p>
 <p>
 V é um caractere fixo; 
-  <\p>
+  </p>
 <p>
 X é um número decimal que representa uma versão final artefato;
-  <\p>
+  </p>
 <p>
 YY é um número hexadecimal que representa um draft da versão X do artefato.
-  <\p>
+  </p>
   
 O número de versão dos artefatos muda de acordo com as regras descritas a seguir:
 •	A primeira versão do artefato deve ser 1.01;
@@ -76,5 +76,5 @@ O número de versão dos artefatos muda de acordo com as regras descritas a segu
 | DGA | Documento Geral de Arquitetura |
 
 #### 2.4	Localização dos artefatos
-[![artefatos](https://1drv.ms/i/s!ArQaYWQW1CGngrpYuxXXkEvbKwTXzg)]
+![artefatos](https://1drv.ms/i/s!ArQaYWQW1CGngrpYuxXXkEvbKwTXzg)
 
