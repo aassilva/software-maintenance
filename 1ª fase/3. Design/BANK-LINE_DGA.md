@@ -30,8 +30,8 @@ Esse documento está dividido nas seguintes seções:
 
 Na representação acima mostra o funcionamento da arquitetura MVC aplicada no rails, a qual segue os seguintes passos, usuário já logado no sistema escolhe a opção "Consulta de Saldo".
 
-1. A Aplicação (APP) faz uma solicitação parao Controller.
-2. O controller manipula a solicitação.
+1. A Aplicação (APP) faz uma solicitação para a Controller.
+2. A controller manipula a solicitação.
 3. O Model retorna os dados para a ação da Controller.
 4. A Controller, passa os dados para a View.
 5. A View renderiza e retorna os dados para a aplicação.
