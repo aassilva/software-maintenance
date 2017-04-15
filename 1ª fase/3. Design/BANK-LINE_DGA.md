@@ -38,3 +38,8 @@ Na representação acima mostra o funcionamento da arquitetura MVC aplicada no r
 ## 3. Visão de Casos de Uso
 O caso de uso fundamental à arquitetura é:
 ![Diagrama](https://github.com/antlisufg/imagens/blob/master/UseCase%20Diagram1.png)
+
+### 3.1 Realizações de Casos de Uso
+![Diagrama](https://github.com/antlisufg/imagens/blob/master/Sequence%20Diagram1.png)
+
+## 4. Visão Lógica
