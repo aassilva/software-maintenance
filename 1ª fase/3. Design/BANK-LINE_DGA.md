@@ -26,3 +26,4 @@ Esse documento está dividido nas seguintes seções:
 9. Qualidade
 
 ## 2. Representação da Arquitetura
+![Diagrama](https://github.com/antlisufg/imagens/blob/master/Flowchart0.png)
