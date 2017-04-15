@@ -23,23 +23,43 @@ O Plano de Gerenciamento de Configuração deve ser mantido atualizado para refl
 
 #### 2.1	Identificação do documento
 Todos os itens de configuração (exceto o código fonte) devem se identificado conforme abaixo:
-<PROJETO>_<ACRÔNIMO>
+<p>
+   PROJETO_ACRÔNIMO
+   </p>
 
+<p>
 Onde:
-<PROJETO> é o nome do projeto;
-<ACRÔNIMO> é o significado/nome do artefato (Conforme sessão 2.4	Localização dos artefatos).
-
+  <\p>
+<p>
+PROJETO: é o nome do projeto;
+  <\p>
+<p>
+ACRÔNIMO: é o significado/nome do artefato (Conforme sessão 2.4	Localização dos artefatos).
+  <\p>
+  
+<p>  
 Observação: Todas as letras que formam a identificação do artefato de ser em maiúsculo.
-
+  <\p>
+  
 #### 2.2	Versão do documento
 Todos os artefatos devem ter um número de versão conforme abaixo:
+<p>
 VX.YY
+  <\p>
 
+<p>
 Onde:
+  <\p>
+<p>
 V é um caractere fixo; 
+  <\p>
+<p>
 X é um número decimal que representa uma versão final artefato;
+  <\p>
+<p>
 YY é um número hexadecimal que representa um draft da versão X do artefato.
-
+  <\p>
+  
 O número de versão dos artefatos muda de acordo com as regras descritas a seguir:
 •	A primeira versão do artefato deve ser 1.01;
 •	A cada modificação no artefato, o valor YY deve ser incrementado;
@@ -56,5 +76,5 @@ O número de versão dos artefatos muda de acordo com as regras descritas a segu
 | DGA | Documento Geral de Arquitetura |
 
 #### 2.4	Localização dos artefatos
-[![artefatos](https://1drv.ms/i/s!ArQaYWQW1CGngrpYuxXXkEvbKwTXzg)](https://1drv.ms/i/s!ArQaYWQW1CGngrpYuxXXkEvbKwTXzg)
+[![artefatos](https://1drv.ms/i/s!ArQaYWQW1CGngrpYuxXXkEvbKwTXzg)]
 
