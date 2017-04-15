@@ -76,5 +76,5 @@ O número de versão dos artefatos muda de acordo com as regras descritas a segu
 | DGA | Documento Geral de Arquitetura |
 
 #### 2.4	Localização dos artefatos
-[artefatos](https://1drv.ms/i/s!ArQaYWQW1CGngrpYuxXXkEvbKwTXzg)
+![artefatos](https://1drv.ms/i/s!ArQaYWQW1CGngrpYuxXXkEvbKwTXzg)
 
