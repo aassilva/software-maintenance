@@ -20,9 +20,7 @@ Esse documento está dividido nas seguintes seções:
 3. Visão de Casos de Uso
 4. Visão Lógica
 5. Visão de Implementação
-6. Visão de Dados
-7. Tamanho e Desempenho
-8. Qualidade
+6. Qualidade
 
 ## 2. Representação da Arquitetura
 ![Diagrama](https://github.com/antlisufg/imagens/blob/master/Flowchart0.png)
@@ -48,3 +46,16 @@ O usuário interage com o sistema através da view, realizando alguma operação
 ### 4.1 Visão Geral
 
 ![Diagrama](https://github.com/antlisufg/imagens/blob/master/Flowchart1.png)
+
+O sistema BANK-LINE é uma aplicação desktop construída de acordo com o modelo de arquitetura MVC (model-view-controller).
+
+- A camada de View é responsável pelo front-end, onde é estabelecida a comunicação entre o usuário e a aplicação. A comunicação acontece apenas com a Controller, através de requisições.
+
+- A camada Controller trata da parte que processa cada ação do sistema, como por exemplo, requisições do usuário. 
+
+- A camada de Model representa os dados da aplicação, basicamente na camada Model ocorre o tratamento da escrita, validação e leitura dos dados. Estes dados devem estar descritos pelas regras de negócio do sistema. Assim a Model, armazena se necessário os dados no database, e se comunica com a Controller quando houver necessidade de exibição, e a Controller decidirar em qual view exibir os dados da Model.
+
+## 5. Visão de Implementação
+
+## 6. Qualidade
+Com a definição da arquitetura, houve uma independência proporcionada ao dividir em três partes principais a aplicação. O MVC também torna mais simples a manutenção do software, pois sua estrutura de arquivos torna fácil localizar trechos específicos de código.
