@@ -43,3 +43,8 @@ O caso de uso fundamental à arquitetura é:
 ![Diagrama](https://github.com/antlisufg/imagens/blob/master/Sequence%20Diagram1.png)
 
 ## 4. Visão Lógica
+O usuário interage com o sistema através da view, realizando alguma operação no sistema, a view solicita a controller a ação realizada, A controller processa as informações por meio da comunicação com a model e o database, que por sua vez se comunica com o banco de dados, que por conseguinte repassa o resultado da operação solicitada para a view.
+
+### 4.1 Visão Geral
+
+![Diagrama](https://github.com/antlisufg/imagens/blob/master/Flowchart1.png)
