@@ -56,6 +56,7 @@ O sistema BANK-LINE é uma aplicação desktop construída de acordo com o model
 - A camada de Model representa os dados da aplicação, basicamente na camada Model ocorre o tratamento da escrita, validação e leitura dos dados. Estes dados devem estar descritos pelas regras de negócio do sistema. Assim a Model, armazena se necessário os dados no database, e se comunica com a Controller quando houver necessidade de exibição, e a Controller decidirar em qual view exibir os dados da Model.
 
 ## 5. Visão de Implementação
+![Diagrama](https://github.com/antlisufg/imagens/blob/master/Class%20Diagram0.png)
 
 ## 6. Qualidade
 Com a definição da arquitetura, houve uma independência proporcionada ao dividir em três partes principais a aplicação. O MVC também torna mais simples a manutenção do software, pois sua estrutura de arquivos torna fácil localizar trechos específicos de código.
