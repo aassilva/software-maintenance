@@ -59,3 +59,6 @@ O sistema BANK-LINE é uma aplicação desktop construída de acordo com o model
 
 ## 6. Qualidade
 Com a definição da arquitetura, houve uma independência proporcionada ao dividir em três partes principais a aplicação. O MVC também torna mais simples a manutenção do software, pois sua estrutura de arquivos torna fácil localizar trechos específicos de código.
+
+
+@Esta definição tem como referência basica: #PartiuFormar 
