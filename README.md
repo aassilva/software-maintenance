@@ -7,7 +7,7 @@ Para elaboração deste projeto foi seguido o Processo Simplificado disponivel [
 [![license](https://img.shields.io/github/license/antlisufg/manuten-oSW.svg)](https://github.com/antlisufg/manuten-oSW/blob/master/LICENSE)
 
 
-### Documentos Disponíveis
+## Documentos Disponíveis
 - [Plano de Configuração do Projeto](https://github.com/antlisufg/manuten-oSW/blob/master/1%C2%AA%20fase/4.%20BANK-LINE_PCS.md)
 - [Plano Geral do Projeto](https://github.com/antlisufg/manuten-oSW/blob/master/1%C2%AA%20fase/1.%20Gerenciamento/1.1%20BANK-LINE_PGP.md)
 - [Cronograma do Projeto](https://github.com/antlisufg/manuten-oSW/blob/master/1%C2%AA%20fase/1.%20Gerenciamento/1.2%20BANK-LINE_COP.md)
