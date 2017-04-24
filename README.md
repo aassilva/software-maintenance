@@ -1,4 +1,4 @@
-# manutençãoSW
+# Manutenção de Software
 
 Projeto específico para trabalho prático da disciplina Manutenção de Software, que conciste na elaboração/definição de uma proposta para um sistema de software.
 
